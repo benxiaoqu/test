@@ -1,3 +1,8 @@
 update content on pc v0.2
 
+<<<<<<< HEAD
 add content on master
+=======
+
+add content on pc v0.2
+>>>>>>> v0.2
